@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Moura_1.png" alt="Moura Experience" width="160" />
+<img src="Moura.png" alt="Moura Experience" width="160" />
 
 # Moura Experience
 
@@ -138,7 +138,7 @@ O projeto é intencionalmente um **site estático de arquivo único**, priorizan
 ```text
 .
 ├── index.html            # Aplicação completa (markup, estilos e lógica)
-├── Moura_1.png           # Logotipo / imagem Open Graph
+├── Moura.png             # Logotipo / imagem Open Graph
 ├── img/                  # Fotos dos produtos: <slug-do-modelo>.png
 │   ├── iphone-11.png
 │   ├── iphone-12.png
